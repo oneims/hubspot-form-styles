@@ -1,0 +1,20 @@
+{
+  "name": "gulp-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.13.10",
+    "@babel/preset-env": "7.13.10",
+    "@babel/register": "7.13.8",
+    "babel-polyfill": "6.26.0",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "7.0.1",
+    "gulp-babel": "8.0.0",
+    "gulp-rename": "2.0.0",
+    "gulp-sass": "4.1.0",
+    "gulplog": "1.0.0",
+    "gulp-rem-to-px": "^1.0.1"
+  }
+}
