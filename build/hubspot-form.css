@@ -54,6 +54,7 @@
 .HUBSPOT__SITE__FORM .hbspt-form input[type="email"],
 .HUBSPOT__SITE__FORM .hbspt-form input[type="tel"],
 .HUBSPOT__SITE__FORM .hbspt-form input[type="url"],
+.HUBSPOT__SITE__FORM .hbspt-form input[type="number"],
 .HUBSPOT__SITE__FORM .hbspt-form select,
 .HUBSPOT__SITE__FORM .hbspt-form textarea {
   width: 100%;
@@ -69,6 +70,7 @@
 .HUBSPOT__SITE__FORM .hbspt-form input[type="email"]:focus,
 .HUBSPOT__SITE__FORM .hbspt-form input[type="tel"]:focus,
 .HUBSPOT__SITE__FORM .hbspt-form input[type="url"]:focus,
+.HUBSPOT__SITE__FORM .hbspt-form input[type="number"]:focus,
 .HUBSPOT__SITE__FORM .hbspt-form select:focus,
 .HUBSPOT__SITE__FORM .hbspt-form textarea:focus {
   outline-color: #9561a9;
